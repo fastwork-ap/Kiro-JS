@@ -1,0 +1,39 @@
+{
+  "solution": {
+    "name": "spfx-intake-client-side-solution",
+    "id": "a1b2c3d4-e5f6-47a8-9b0c-1d2e3f4a5b6c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "AmazonProjectsPK",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Cascading project intake form (Discipline > Project Category > Baseline)"
+      },
+      "longDescription": {
+        "default": "A cascading intake form that reads the Discipline, ProjectCategory, and Baseline lists and submits requests to IntakeList."
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-intake Feature",
+        "description": "The feature that activates elements of the spfx-intake solution.",
+        "id": "b2c3d4e5-f6a7-48b9-ac0d-2e3f4a5b6c7d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-intake.sppkg"
+  }
+}

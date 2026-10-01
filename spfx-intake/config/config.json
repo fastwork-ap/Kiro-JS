@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "bundles": {
+    "intake-form-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/intakeForm/IntakeFormWebPart.js",
+          "manifest": "./src/webparts/intakeForm/IntakeFormWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "IntakeFormWebPartStrings": "lib/webparts/intakeForm/loc/{locale}.js"
+  }
+}

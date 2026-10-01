@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.14.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.21.1",
+    "libraryName": "spfx-intake",
+    "libraryId": "a1b2c3d4-e5f6-47a8-9b0c-1d2e3f4a5b6c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-intake",
+    "solutionShortDescription": "spfx-intake description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
